@@ -4,7 +4,7 @@ This is a game made by me in C++ with the SFML library back in 2019 as a side st
 ## Main Menu
 Game interface contains a main menu where user can select between single player and multiplayer which is a competiton in split screen. Also there is an exit button.
 
-![image](img\menu.png)
+![image](img/menu.png)
 
 ## Controls
 Movement in game is based on the `WSAD` but withoud the `S`
@@ -23,12 +23,12 @@ To show up a menu page use `Esc` key, menu page can be bot controlled using arro
 ## Single player
 The game for a single player consists of the total points gathered in the left upper corner, time left in the middle in red and the current level number on the left bottom. Both lava and water are dangerous and can kill a player.
 
-![image](img\single.png)
+![image](img/single.png)
 
 ## Multi player (Splt screen competition)
 In this type of game where to players compete who is first to win a level and get points. At the end of all levels there is a summary screen which show which player was better thus won whole competition.
 
-![image](img\multi.png)
+![image](img/multi.png)
 
 # Running the game
 To run a game simply download a release from a GitHub and extract the `.zip` folder. Then just duble click the `Project.exe` executable. There will be a prompt about trusting the software as it is not signed but still safe.
